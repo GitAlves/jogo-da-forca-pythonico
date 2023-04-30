@@ -9,16 +9,16 @@ O Jogo da forca Pythonico é um projeto feito inteiramente com o uso do Python, 
 A aplicação consiste em um jogo de forca simples, que de forma muito interativa, leva o jogador a experimentar toda a emoção que este jogo clássico tem a oferecer.
 
 ## Tela da escolha de dificuldade
-![Tela da escolha da dificuldade](componentes/Documentacao/Tela_dificuldade.png)
+![Tela da escolha da dificuldade](Componentes/Documentacao/Tela_dificuldade.png)
 
 ## Tela do jogo
-![Tela do jogo](componentes/Documentacao/Tela_do_jogo.png)
+![Tela do jogo](Componentes/Documentacao/Tela_do_jogo.png)
 
 ## Tela em caso de vitória
-![Tela em caso de vitória](componentes/Documentacao/Tela_vitoria.png)
+![Tela em caso de vitória](Componentes/Documentacao/Tela_vitoria.png)
 
 ## Tela em caso de derrota
-![Tela em caso de derrota](componentes/Documentacao/Tela_derrota.png)
+![Tela em caso de derrota](Componentes/Documentacao/Tela_derrota.png)
 
 # Tecnologias utilizadas
 ## Back end
