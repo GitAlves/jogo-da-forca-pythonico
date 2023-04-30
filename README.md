@@ -37,10 +37,10 @@ Obs.: Executar os seguintes passos no prompt de comando do seu computador
 
 ```bash
 # Copiar o repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/GitAlves/jogo-da-forca-pythonico
 
 # Entrar na pasta do projeto
-cd Código
+cd Codigo
 
 # Executar o projeto
 python Jogo_da_Forca.py
