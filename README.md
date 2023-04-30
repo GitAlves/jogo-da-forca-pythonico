@@ -40,7 +40,7 @@ Obs.: Executar os seguintes passos no prompt de comando do seu computador
 git clone https://github.com/GitAlves/jogo-da-forca-pythonico
 
 # Entrar na pasta do projeto
-cd Codigo
+cd cd jogo-da-forca-pythonico/Codigo
 
 # Executar o projeto
 python Jogo_da_Forca.py
