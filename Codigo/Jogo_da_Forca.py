@@ -88,10 +88,10 @@ def quit():
 
 
 pygame.mixer.init()
-pygame.mixer.music.load('Componentes/background_music.mp3')
+pygame.mixer.music.load('../Componentes/background_music.mp3')
 pygame.mixer.music.play()
 
-with open('Componentes/Palavras.txt') as arq:
+with open('../Componentes/Palavras.txt') as arq:
     leitura = arq.readlines()
     palavra = random.choice(leitura).split('\n')[0].upper()
 
